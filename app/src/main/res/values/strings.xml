@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Steps from Path</string>
+    <string name="title_activity_maps">Steps from Path</string>
+    <string name="show_path_and_walking_profile">Show Path and Walking Profile</string>
+    <string name="distance">Distance:</string>
+    <string name="gender">Gender:</string>
+    <string name="height">Height:</string>
+    <string name="pace">Pace:</string>
+    <string name="steps">Steps:</string>
+</resources>
